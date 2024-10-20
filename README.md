@@ -1,4 +1,4 @@
-My Django Webpage
+<h2>My Django Webpage </h2> <br>
 Welcome to my Django webpage repository! This project showcases a webpage built using Django.
 
 Getting Started
