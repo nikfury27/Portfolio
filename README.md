@@ -14,47 +14,38 @@ Virtualenv (optional but recommended)
 Installation
 Clone the repository
 
-bash
-
-Copy
+```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+```
+
 Create a virtual environment
 
-bash
-
-Copy
+```bash
 python -m venv env
 source env/bin/activate  # On Windows: env\Scripts\activate
-Install dependencies
+```
 
-bash
+Running the Project:
 
-Copy
-pip install -r requirements.txt
-Running the Project
 Apply migrations
 
-bash
-
-Copy
+```bash
 python manage.py migrate
+```
+
 Create a superuser
 
-bash
-
-Copy
+```bash
 python manage.py createsuperuser
+```
+
 Run the development server
 
-bash
-
-Copy
+```bash
 python manage.py runserver
+```
+
 Access the webpage
 
 Open your web browser and go to http://127.0.0.1:8000/
-
-Contributing
-If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
-
