@@ -1,8 +1,8 @@
 <h2>My Django Webpage </h2> <br>
 Welcome to my Django webpage repository! This project showcases a webpage built using Django.
 
-Getting Started
-Prerequisites
+<h3>Getting Started: </h3>
+<h4>Prerequisites</h4>
 Before you begin, ensure you have the following installed:
 
 Python 3.x
@@ -11,7 +11,7 @@ Django
 
 Virtualenv (optional but recommended)
 
-Installation
+<h4>Installation</h4>
 Clone the repository
 
 ```bash
